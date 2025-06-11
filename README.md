@@ -2,7 +2,6 @@
 
 LifePlot is a modern web application that helps you track your mood, journal your thoughts, manage tasks, and automate your daily routines—all in one beautiful, responsive dashboard. Powered by Next.js, TypeScript, Tailwind CSS and shadcn/ui. LifePlot brings clarity and productivity to your everyday life.
 
----
 
 ## ✨ Key Features
 
@@ -15,7 +14,6 @@ LifePlot is a modern web application that helps you track your mood, journal you
 - **📱 Responsive Design:** Enjoy a seamless experience on any device.
 - **🎨 Customizable UI:** Built with Tailwind CSS and shadcn/ui for easy theming.
 
----
 
 ## 🚀 Getting Started
 
@@ -45,7 +43,6 @@ LifePlot is a modern web application that helps you track your mood, journal you
 4. **Open the app:**  
    Visit [http://localhost:3000](http://localhost:3000) in your browser.
 
----
 
 ## 📂 Project Structure
 
@@ -92,7 +89,6 @@ LifePlot is a modern web application that helps you track your mood, journal you
 - **TypeScript:** For type safety 🔒
 - **State Management:** React Hooks 🧠
 
----
 
 ## 🤝 Contributing
 
@@ -117,7 +113,6 @@ We welcome contributions from the community! Here’s how you can help:
    
 5. **Open a Pull Request**
 
----
 
 ## 🙏 Acknowledgements
 
@@ -125,6 +120,5 @@ We welcome contributions from the community! Here’s how you can help:
 - [Tailwind CSS](https://tailwindcss.com/)
 - [shadcn/ui](https://ui.shadcn.com/)
 
----
 
-Made with ❤️ by [DPRAHUL]
+Made with ❤️ by [DPRAHUL](https://github.com/DPRAHUL-2021)
