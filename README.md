@@ -1,4 +1,4 @@
-# 🌱 LifePlot – Your AI-Powered Life Dashboard
+# 🌱 LifePilot – Your AI-Powered Life Dashboard
 
 LifePlot is a modern web application that helps you track your mood, journal your thoughts, manage tasks, and automate your daily routines—all in one beautiful, responsive dashboard. Powered by Next.js, TypeScript, Tailwind CSS and shadcn/ui. LifePlot brings clarity and productivity to your everyday life.
 
